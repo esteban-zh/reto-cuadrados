@@ -28,3 +28,12 @@ td {
   border: 1px solid black;
   padding: 10%;
 }
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+}
