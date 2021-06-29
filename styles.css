@@ -1,0 +1,30 @@
+/* .marco td {
+  border-collapse: collapse;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  color: white;
+  font-size: 24px;
+  padding: 10px 23px;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+} */
+
+table {
+  text-align: center;
+  width: 20%;
+  height: 20%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+  padding: 10%;
+}
